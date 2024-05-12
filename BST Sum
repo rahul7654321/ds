@@ -19,7 +19,7 @@ Input:
 
 Output:
 
-Sum of all nodes are 16
+Sum of all nodes is 16
 ===============================================================================================================
 import java.util.Scanner;
 public class Main {
